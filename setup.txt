@@ -8,5 +8,7 @@ npm i nodemon -D
 cd backend
 mkdir index.js
 
+npm i mongoose
+
 //to start 
 npm run start / npm start
