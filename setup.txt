@@ -1,0 +1,12 @@
+//current directory
+
+npm init -y
+npm i express dotenv
+
+npm i nodemon -D
+
+cd backend
+mkdir index.js
+
+//to start 
+npm run start / npm start
